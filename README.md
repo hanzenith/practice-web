@@ -1,3 +1,3 @@
 # practice-web
 
-This repo is for practicing front-end developing. It is private. 
+This repo is for practicing front-end developing.
